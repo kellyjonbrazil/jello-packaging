@@ -27,6 +27,6 @@ Linux and macOS binaries are built from PyPi and can be copied to any location i
 
 #### macOS (Mojave and higher)
 
-| Version   | File                                                                                                   | SHA256 Hash (binary file)                                         |
-|-----------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| 1.13.1    | [jc-1.13.1-darwin.tar.gz](https://jc-packages.s3-us-west-1.amazonaws.com/bin/jc-1.13.1-darwin.tar.gz)  | 111e1d589b6d2f4bd347ae81c0e67bb2b3ce820964b313ebb71b63bdf4f73979  |
+| Version   | File                                                                                                          | SHA256 Hash (binary file)                                         |
+|-----------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| 1.2.8     | [jello-1.2.8-darwin.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.2.8-darwin.tar.gz)  | d8e32c0e827cc39eb57f9c6170003a9c33c5bb9e8f11942fa1e939d485b851f6  |
