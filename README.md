@@ -20,13 +20,13 @@ Linux and macOS binaries are built from PyPi and can be copied to any location i
 
 #### Linux (Fedora, RHEL, CentOS, Debian, Ubuntu)
 
-| Version   | File                                                                                                 | SHA256 Hash (binary file)                                         |
-|-----------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| 1.13.1    | [jc-1.13.1-linux.tar.gz](https://jc-packages.s3-us-west-1.amazonaws.com/bin/jc-1.13.1-linux.tar.gz)  | 4224e06c470714cb02e3e30df56e710dd55dde6dded488548b13b316d8e7dc31  |
+| Version   | File                                                                                                        | SHA256 Hash (binary file)                                         |
+|-----------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| 1.2.9     | [jello-1.2.9-linux.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.2.9-linux.tar.gz)  | ffe8dfe2cc1dc446aeade32078db654de604176976be5dee89f83f0049551c45  |
 
 
 #### macOS (Mojave and higher)
 
 | Version   | File                                                                                                          | SHA256 Hash (binary file)                                         |
 |-----------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| 1.2.8     | [jello-1.2.8-darwin.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.2.8-darwin.tar.gz)  | d8e32c0e827cc39eb57f9c6170003a9c33c5bb9e8f11942fa1e939d485b851f6  |
+| 1.2.9     | [jello-1.2.9-darwin.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.2.9-darwin.tar.gz)  | 9355bf19212cce60f5f592a1a778fdf26984f4b86968ceca2a3e99792c258037  |
