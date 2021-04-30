@@ -3,7 +3,7 @@
 Filter JSON and JSON Lines data with Python syntax. For more information, please see the project on [GitHub](https://github.com/kellyjonbrazil/jello).
 
 ## Installing Jello
-You can install `jello` via `pip`, vi OS Package Repository, or by downloading the correct binary for your architecture and running it anywhere on your filesystem.
+You can install `jello` via `pip`, via OS Package Repository, or by downloading the correct binary for your architecture and running it anywhere on your filesystem.
 
 ### Pip (macOS, linux, unix, Windows)
 For the most up-to-date version and the most cross-platform option, use `pip` or `pip3` to download and install `jello` directly from [PyPi](https://pypi.org/project/jello/):
