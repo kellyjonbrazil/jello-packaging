@@ -3,7 +3,7 @@
 Filter JSON and JSON Lines data with Python syntax. For more information, please see the project on [GitHub](https://github.com/kellyjonbrazil/jello).
 
 ## Installing Jello
-You can install `jello` via `pip` or by downloading the correct binary for your architecture and running it anywhere on your filesystem.
+You can install `jello` via `pip`, vi OS Package Repository, or by downloading the correct binary for your architecture and running it anywhere on your filesystem.
 
 ### Pip (macOS, linux, unix, Windows)
 For the most up-to-date version and the most cross-platform option, use `pip` or `pip3` to download and install `jello` directly from [PyPi](https://pypi.org/project/jello/):
@@ -14,6 +14,10 @@ For the most up-to-date version and the most cross-platform option, use `pip` or
 ```bash
 pip3 install jello
 ```
+
+### OS Packages
+
+[![Packaging status](https://repology.org/badge/vertical-allrepos/jello.svg)](https://repology.org/project/jello/versions)
 
 ### Binaries (x86_64)
 Linux and macOS x86_64 binaries are built from PyPi and can be copied to any location in your path and run. These binaries may not always be on the very latest `jello` version, but are regularly updated.
