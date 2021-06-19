@@ -24,6 +24,7 @@ The MSI Installer packages for Windows are built from PyPi and can be installed 
 
 | Version   | File                                                                                    | SHA256 Hash                                                       |
 |-----------|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| 1.4.0     | [jello-1.4.0.msi](https://jello-packages.s3-us-west-1.amazonaws.com/jello-1.4.0.msi)    | 7021241155e162b4f3f951d51dd8c2625b4f43ac6899648a266107c571f41bfb  |
 | 1.3.6     | [jello-1.3.6.msi](https://jello-packages.s3-us-west-1.amazonaws.com/jello-1.3.6.msi)    | 1d0919eb7277c04d15480a782b7f65438855f3556497e7c31f11154a081610ad  |
 | 1.3.3     | [jello-1.3.3.msi](https://jello-packages.s3-us-west-1.amazonaws.com/jello-1.3.3.msi)    | 27ab9c84278cca966af8292e0118d9fc54807f54f2b057f7a99b6ac0ef6c6b28  |
 | 1.2.11    | [jello-1.2.11.msi](https://jello-packages.s3-us-west-1.amazonaws.com/jello-1.2.11.msi)  | 08da1c91e5d1930542529473350dc10ffc3d4adf5c06cc365c333663ac82a8fc  |
