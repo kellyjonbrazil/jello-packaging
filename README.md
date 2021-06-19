@@ -35,6 +35,7 @@ Linux and macOS x86_64 binaries are built from PyPi and can be copied to any loc
 
 | Version   | File                                                                                                               | SHA256 Hash (binary file)                                         |
 |-----------|--------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| 1.4.0     | [jello-1.4.0-linux.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.4.0-linux-x86_64.tar.gz)  | ea97482bee7112e77c27023014e640dfd942991719cec38116cf3905f679b874  |
 | 1.3.6     | [jello-1.3.6-linux.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.3.6-linux-x86_64.tar.gz)  | 73915541c1985c259d2ceed5f7ade109b156da4ff59f7af0a3c0298057884884  |
 | 1.3.3     | [jello-1.3.3-linux.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.3.3-linux-x86_64.tar.gz)  | ac27dd672de794ec26477994d40ff4d060537691f3ca6eafd84c2ab2bf1470ca  |
 | 1.2.9     | [jello-1.2.9-linux.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.2.9-linux.tar.gz)         | ffe8dfe2cc1dc446aeade32078db654de604176976be5dee89f83f0049551c45  |
