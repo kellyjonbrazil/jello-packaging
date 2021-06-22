@@ -17,6 +17,11 @@ pip3 install jello
 
 ### OS Packages
 
+| OS                    | Command                                                                       | 
+|-----------------------|-------------------------------------------------------------------------------|
+| Arch linux            | `pacman -S jello`                                                             |
+| MacOS                 | `brew install jello`                                                          |
+
 [![Packaging status](https://repology.org/badge/vertical-allrepos/jello.svg)](https://repology.org/project/jello/versions)
 
 ### MSI Installer (Windows 2016+)
