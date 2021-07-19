@@ -22,6 +22,7 @@ NAME=jello
 DESCRIPTION="Filter JSON and JSON Lines data with Python syntax"
 URL="https://github.com/kellyjonbrazil/jello"
 MAINTAINER="kellyjonbrazil@gmail.com"
+RAW_URL="https://raw.githubusercontent.com/kellyjonbrazil/${NAME}/master"
 
 rm dist/"${NAME}"-"${VERSION}"-"${RELEASE}".x86_64.*
 rm -rf linux/*
@@ -35,7 +36,7 @@ chmod +x linux/usr/local/bin/"${NAME}"
 
 # download latest man page
 mkdir -p linux/usr/share/man/man1
-curl -o linux/usr/share/man/man1/"${NAME}".1.gz https://raw.githubusercontent.com/kellyjonbrazil/"${NAME}"/master/man/"${NAME}".1.gz
+curl -o "linux/usr/share/man/man1/${NAME}.1" "${RAW_URL}/master/man/${NAME}.1"
 
 fpm \
     --verbose \
