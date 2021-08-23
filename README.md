@@ -19,6 +19,7 @@ pip3 install jello
 
 | OS                    | Command                                                                       | 
 |-----------------------|-------------------------------------------------------------------------------|
+| Debian linux          | `apt-get install jello`                                                          |
 | Arch linux            | `pacman -S jello`                                                             |
 | macOS                 | `brew install jello`                                                          |
 
