@@ -43,6 +43,7 @@ Linux and macOS x86_64 binaries are built from PyPi and can be copied to any loc
 
 | Version   | File                                                                                                               | SHA256 Hash (binary file)                                         |
 |-----------|--------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| 1.4.5     | [jello-1.4.5-linux.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.4.5-linux-x86_64.tar.gz)  | 29b8d5a0cdcccb78ffb85fbe231d601a75818ae6259fa89255b80095d9762c34  |
 | 1.4.4     | [jello-1.4.4-linux.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.4.4-linux-x86_64.tar.gz)  | 9f0b241350425193c13105f50059493e2484620276b3cf6665c7012dfc48e76d  |
 | 1.4.0     | [jello-1.4.0-linux.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.4.0-linux-x86_64.tar.gz)  | ea97482bee7112e77c27023014e640dfd942991719cec38116cf3905f679b874  |
 | 1.3.6     | [jello-1.3.6-linux.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.3.6-linux-x86_64.tar.gz)  | 73915541c1985c259d2ceed5f7ade109b156da4ff59f7af0a3c0298057884884  |
@@ -54,6 +55,7 @@ Linux and macOS x86_64 binaries are built from PyPi and can be copied to any loc
 
 | Version   | File                                                                                                                 | SHA256 Hash (binary file)                                         |
 |-----------|----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| 1.4.5     | [jello-1.4.5-darwin.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.4.5-darwin-x86_64.tar.gz)  | 7e7a9b8dfe9e8d988930bcafc69f0ea97382f08c02550d2fd4b5bfeca6ec7ecb  |
 | 1.4.4     | [jello-1.4.4-darwin.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.4.4-darwin-x86_64.tar.gz)  | dda4efd5de2ff56806f545f15a2d6095845c05106fab046737a5e27c9d22dfb9  |
 | 1.4.0     | [jello-1.4.0-darwin.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.4.0-darwin-x86_64.tar.gz)  | 56f94e08524be8aecc66a91b6886df09b1dc7089755c8d4f7bdca3ba088fa413  |
 | 1.3.6     | [jello-1.3.6-darwin.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.3.6-darwin-x86_64.tar.gz)  | acb9c04a7a7e32e10cff83b6f2ff06407fae7172d6ff633bb3221487763c5521  |
