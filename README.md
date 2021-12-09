@@ -30,6 +30,7 @@ The MSI Installer packages for Windows are built from PyPi and can be installed 
 
 | Version   | File                                                                                    | SHA256 Hash                                                       |
 |-----------|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| 1.5.0     | [jello-1.5.0.msi](https://jello-packages.s3-us-west-1.amazonaws.com/jello-1.5.0.msi)    | 661ffd4845d29a1911185e04fe4bb41a4bebc3db5d983d4f36f11d2f88553f2b  |
 | 1.4.6     | [jello-1.4.6.msi](https://jello-packages.s3-us-west-1.amazonaws.com/jello-1.4.6.msi)    | fd2507fd65ab96d898af09ae29e9edadc50e96fb9a0a60940c90fdb2458059c5  |
 | 1.4.5     | [jello-1.4.5.msi](https://jello-packages.s3-us-west-1.amazonaws.com/jello-1.4.5.msi)    | 33b3685c4b27176199d19037809739f581464a0a175c732c1dc42083d8c881f0  |
 | 1.4.4     | [jello-1.4.4.msi](https://jello-packages.s3-us-west-1.amazonaws.com/jello-1.4.4.msi)    | d9ad008ec26119aa3de645d2390d6653f11d533d5dc3e0f0b3dcb5d243c14fe0  |
@@ -45,6 +46,7 @@ Linux and macOS x86_64 binaries are built from PyPi and can be copied to any loc
 
 | Version   | File                                                                                                               | SHA256 Hash (binary file)                                         |
 |-----------|--------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| 1.5.0     | [jello-1.5.0-linux.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.5.0-linux-x86_64.tar.gz)  | da086eee4447b76586719674ea708c0996d4c6d2720a99e8af2e9b5cd8efecfa  |
 | 1.4.6     | [jello-1.4.6-linux.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.4.6-linux-x86_64.tar.gz)  | 6bc246d28ae40ab347a5cf93e1f3204c3f9b08272b3f10c0b27daad677f749a3  |
 | 1.4.5     | [jello-1.4.5-linux.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.4.5-linux-x86_64.tar.gz)  | 29b8d5a0cdcccb78ffb85fbe231d601a75818ae6259fa89255b80095d9762c34  |
 | 1.4.4     | [jello-1.4.4-linux.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.4.4-linux-x86_64.tar.gz)  | 9f0b241350425193c13105f50059493e2484620276b3cf6665c7012dfc48e76d  |
@@ -58,6 +60,7 @@ Linux and macOS x86_64 binaries are built from PyPi and can be copied to any loc
 
 | Version   | File                                                                                                                 | SHA256 Hash (binary file)                                         |
 |-----------|----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| 1.5.0     | [jello-1.5.0-darwin.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.5.0-darwin-x86_64.tar.gz)  | ad38d3205d5fc5e3875bcc3c41be925132ce968ee44d9af4ada4f3b58acc4712  |
 | 1.4.6     | [jello-1.4.6-darwin.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.4.6-darwin-x86_64.tar.gz)  | 2aaacec1d7ac363f243cc1ed92abe56e35d939c20177d8d4d3989a4ef0a1618c  |
 | 1.4.5     | [jello-1.4.5-darwin.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.4.5-darwin-x86_64.tar.gz)  | 7e7a9b8dfe9e8d988930bcafc69f0ea97382f08c02550d2fd4b5bfeca6ec7ecb  |
 | 1.4.4     | [jello-1.4.4-darwin.tar.gz](https://jello-packages.s3-us-west-1.amazonaws.com/bin/jello-1.4.4-darwin-x86_64.tar.gz)  | dda4efd5de2ff56806f545f15a2d6095845c05106fab046737a5e27c9d22dfb9  |
