@@ -13,10 +13,6 @@ def resource_callback(policy, resource):
 
 
 def make_exe(dist):
-    # This function creates a `PythonPackagingPolicy` instance, which
-    # influences how executables are built and how resources are added to
-    # the executable. You can customize the default behavior by assigning
-    # to attributes and calling functions.
     policy = dist.make_python_packaging_policy()
 
     # use the callback function to filter out source code
